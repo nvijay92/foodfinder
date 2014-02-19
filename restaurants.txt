@@ -1,0 +1,3 @@
+Cafe Coffee Day	Beverage	100
+KFC	Junk	150
+Mc Donalds	Junk	120
